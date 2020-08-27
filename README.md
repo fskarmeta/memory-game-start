@@ -15,7 +15,7 @@
 
 ![drawing](./game.png)
 
-### Pantalla de juego donde mostraremos nuestras Iimagenes
+### Pantalla de juego donde mostraremos nuestras Imagenes
 
 ![drawing](./game-table.png)
 
